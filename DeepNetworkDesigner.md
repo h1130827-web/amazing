@@ -51,6 +51,8 @@ Specify amount of training data to use for validation(30%):
 資料分割：每類隨機分為訓練集 70%（約 35 張）、驗證集 15%（約 7 張）與測試集 15%（約 8 張）。
 訓練參數：設定學習率、批次大小（MiniBatchSize=11）、迭代次數（MaxEpochs=8)、驗證頻率(ValidationFrequency=5)等，在 MATLAB GUI 中監控訓練/驗證準確率與損失函數曲線。
 
+![image](https://github.com/h1130827-web/amazing/blob/main/Screenshot%202026-01-12%20114611.png)
+
 Solver(sgdm):模型學習的方法，在此使用隨機梯度下降法，加入動量以加快收斂並減少震盪。
 InitialLearnRate: 初始學習率是模型在訓練一開始時，權重每次更新的調整幅度。
 MiniBatchSize: 每次用來計算一次權重更新的訓練資料數量。
