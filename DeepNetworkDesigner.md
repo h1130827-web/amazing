@@ -75,6 +75,7 @@ ValidationFrequency: 訓練過程中，每隔多少迭代（mini-batch 更新）
 
 ![image](https://github.com/h1130827-web/amazing)
 
+![image](https://github.com/h1130827-web/amazing/blob/main/Screenshot%202026-01-12%20115206.png)
 
 平板 辨識度:93%
 
