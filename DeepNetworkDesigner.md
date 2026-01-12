@@ -1,3 +1,10 @@
+---
+layout: course_layout
+title: "CNN PROJECT"
+---
+
+
+
 ## 專題名稱:
 # GoogLeNet 與 SqueezeNet 於電子產品影像分類之效能比較
 作者： 
