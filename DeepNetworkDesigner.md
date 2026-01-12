@@ -41,10 +41,7 @@ Specify amount of training data to use for validation(30%):
 2.對於小型資料集，搭配遷移學習可快速得到穩定結果。
 3.操作簡單，適合像我一樣的高中生做快速原型與實驗。
 
-SqueezeNet
-
-Deep Network Designer
-
+![image](https://github.com/h1130827-web/amazing/blob/main/Screenshot%202026-01-12%20114401.png)
 
   
 
